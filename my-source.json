@@ -1,9 +1,13 @@
 {
-  "name": "Custom",
-  "list": [
+  "name": "My Source",
+  "downloads": [
     {
-      "title": "Resident Evil Requiem",
-      "download": "magnet:?xt=urn:btih:31148A270B28A877CA7D6413F0B4579382BB1996"
+      "title": "Resident Evil Requiem Deluxe Edition",
+      "fileSize": "55 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:31148A270B28A877CA7D6413F0B4579382BB1996"
+      ],
+      "uploadDate": "2026-01-01"
     }
   ]
 }
